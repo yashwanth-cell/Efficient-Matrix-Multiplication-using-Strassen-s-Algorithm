@@ -1,0 +1,27 @@
+Matrix A:
+1 7 3 5
+4 2 6 8
+3 6 4 7
+9 2 1 5
+
+Matrix B:
+3 5 8 6
+7 2 4 9
+6 3 1 7
+5 9 2 4
+
+Traditional Matrix Multiplication Result:
+62 77 52 87
+86 118 57 123
+81 105 52 96
+87 85 47 107
+
+Time taken by traditional multiplication: 0.000243 seconds
+
+Strassen's Matrix Multiplication Result:
+62 77 52 87
+86 118 57 123
+81 105 52 96
+87 85 47 107
+
+Time taken by Strassen's multiplication: 0.000126 seconds
